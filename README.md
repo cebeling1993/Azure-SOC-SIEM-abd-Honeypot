@@ -1,4 +1,4 @@
-<h1>Azure-SOC-SIE and Honeypot</h1>
+<h1>Azure-SOC-SIEM and Honeypot</h1>
 
 <h2>Description</h2>
 I set up a basic home SOC in Azure from scratch. Using a free Azure subscription, I will walk through creating a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central repository. We then integrate Microsoft Sentinel to analyze real-world attack data.
