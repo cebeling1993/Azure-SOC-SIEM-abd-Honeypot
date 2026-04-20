@@ -12,6 +12,7 @@ I set up a basic home SOC in Azure from scratch. Using a free Azure subscription
 - <b>KQL</b>
 - <b>Azure Sentinel</b>
 
+<img width="901" height="484" alt="image" src="https://github.com/user-attachments/assets/7e67ebaf-09e9-4ff8-a542-36008c0d0b6c" />
 
 
 <!--
